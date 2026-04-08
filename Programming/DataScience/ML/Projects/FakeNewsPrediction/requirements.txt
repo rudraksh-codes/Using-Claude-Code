@@ -1,0 +1,17 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Model persistence
+joblib
+pickle-mixin
+
+# API / App frameworks
+flask
+streamlit
+
+# Utilities
+python-dotenv
+requests
